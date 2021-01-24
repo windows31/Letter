@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to Letter websites
 
-You can use the [editor on GitHub](https://github.com/Letterofficial/letterofficial.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to Letter websites. This is Letter official websites. Thanks for reading this official websites.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Join our community on our [Wix websites community](https://smallpigannouncene.wixsite.com/letter) 
 
 ### Markdown
 
