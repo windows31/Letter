@@ -4,34 +4,14 @@ Welcome to Letter websites. This is Letter official websites. Thanks for reading
 
 Join our community on our [Wix websites community](https://smallpigannouncene.wixsite.com/letter) 
 
-### Markdown
+## Connections
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+[***Letter Wix community websites***](https://smallpigannouncene.wixsite.com/letter)
 
-```markdown
-Syntax highlighted code block
+## Future
 
-# Header 1
-## Header 2
-### Header 3
+We will have an app for user to enjoy. It will be the official app for Letter. You can sign up early as early supporter through our community.
 
-- Bulleted
-- List
+  It will have a chat features. You can chat with other with this features. There will also have a blog features. You can post blog for free with ad-free using our services. You can also share or watch vvideo in our plaftrom. You can watch video with ad-free as well. 
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Letterofficial/letterofficial.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
